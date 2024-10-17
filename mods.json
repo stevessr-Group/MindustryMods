@@ -712,7 +712,7 @@
     "internalName": "psammos",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-10-17T13:08:06Z",
+    "lastUpdated": "2024-10-17T14:47:36Z",
     "stars": 22,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -868,7 +868,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2024-10-17T05:00:18Z",
+    "lastUpdated": "2024-10-17T15:14:00Z",
     "stars": 18,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -946,6 +946,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh\n\n  Sprites of production blocks By Obsidian"
+  },
+  {
+    "repo": "melomelodeon/a-bad-mindustry-mod",
+    "internalName": "fstrcnvyrs",
+    "name": "Definitely Balanced Conveyors",
+    "author": "Rhoo",
+    "lastUpdated": "2022-12-01T15:37:01Z",
+    "stars": 15,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
     "repo": "flintyx/autoresearch",
@@ -1252,7 +1264,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2024-10-17T07:56:50Z",
+    "lastUpdated": "2024-10-17T14:05:21Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1378,6 +1390,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
+  },
+  {
+    "repo": "jirocab/olupis",
+    "internalName": "olupis",
+    "name": "Nyfalis (Olupis)",
+    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
+    "lastUpdated": "2024-10-07T05:32:22Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
   },
   {
     "repo": "lehanchic25/testplanetmindustry",
@@ -2296,7 +2320,7 @@
     "internalName": "astramod",
     "name": "Operation: Aziris",
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2024-10-17T07:10:35Z",
+    "lastUpdated": "2024-10-17T15:02:16Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2544,18 +2568,6 @@
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
   },
   {
-    "repo": "hexazeta/complicatedustry",
-    "internalName": "",
-    "name": "Complicatedustry",
-    "author": "Hexazeta",
-    "lastUpdated": "2024-10-14T13:05:00Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "the ultimate ratio hell, a designer's challenge"
-  },
-  {
     "repo": "itzcraft/xanthia",
     "internalName": "xanthia-3",
     "name": "Xanthia",
@@ -2566,6 +2578,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change."
+  },
+  {
+    "repo": "hexazeta/complicatedustry",
+    "internalName": "",
+    "name": "Complicatedustry",
+    "author": "Hexazeta",
+    "lastUpdated": "2024-10-17T15:04:25Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "the ultimate ratio hell, a designer's challenge"
   },
   {
     "repo": "spaceearthex/banana",
@@ -2938,6 +2962,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Includes nothing about gold or silicon. I just didn't have any mod name ideas."
+  },
+  {
+    "repo": "yaroslav242/yfjs",
+    "internalName": "yfjs",
+    "name": "yfjs",
+    "author": "Yaroslav242",
+    "lastUpdated": "2022-07-18T10:49:30Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper and defends with the mining laser\n  'Uley' (Rus: beehive) - Spore-infested mega with a new artillery turret\n  'Mycorisa' (Rus: mycoris) - Convers vanilla units to spore-infested units with completely different abilities"
   },
   {
     "repo": "obamination/minedustry",
@@ -3556,7 +3592,7 @@
     "internalName": " mech ",
     "name": "combat dustry",
     "author": "beee",
-    "lastUpdated": "2024-10-16T17:47:13Z",
+    "lastUpdated": "2024-10-17T18:53:26Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -3598,18 +3634,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod adds bomber unit tree."
-  },
-  {
-    "repo": "yaroslav242/yfjs",
-    "internalName": "yfjs",
-    "name": "yfjs",
-    "author": "Yaroslav242",
-    "lastUpdated": "2022-07-18T10:49:30Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper and defends with the mining laser\n  'Uley' (Rus: beehive) - Spore-infested mega with a new artillery turret\n  'Mycorisa' (Rus: mycoris) - Convers vanilla units to spore-infested units with completely different abilities"
   },
   {
     "repo": "arksourcer/project-subnautic-",
@@ -4464,18 +4488,6 @@
     "description": "\nJSON mod\n\nI`m working on:\n\n- New materials\n- New electricity\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. Some difficult stuff\n3. Turrets\n4. Units\n5. Sectors + planet (now)\n"
   },
   {
-    "repo": "hungrycloud4913/hc-expanded-dawn",
-    "internalName": "hc-expanded-dawn",
-    "name": "HC-Expanded-Dawn",
-    "author": "HungryCloud4913",
-    "lastUpdated": "2024-10-14T14:59:25Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Warning: This is not New Horizons.\nCredits to everyone who helped even in the slightest bit ever,\nDiscord Helpers: Mindustridiot/HazNoBrain - Unit suggestions, CY4NIDE - Railhammer unit FX work and suggestion"
-  },
-  {
     "repo": "haznobrain/tower-defense-molten",
     "internalName": "towerdefensemolten",
     "name": "Tower Defense: Molten",
@@ -4492,12 +4504,24 @@
     "internalName": "inf",
     "name": "Inferior",
     "author": "\nCamoGekko\n",
-    "lastUpdated": "2024-10-16T20:52:24Z",
+    "lastUpdated": "2024-10-17T16:16:52Z",
     "stars": 3,
     "minGameVersion": "144.3",
     "hasScripts": false,
     "hasJava": false,
     "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
+  },
+  {
+    "repo": "hungrycloud4913/hc-expanded-dawn",
+    "internalName": "hc-expanded-dawn",
+    "name": "HC-Expanded-Dawn",
+    "author": "HungryCloud4913",
+    "lastUpdated": "2024-10-17T19:57:39Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Warning: This is not New Horizons.\nCredits to everyone who helped even in the slightest bit ever,\nDiscord Helpers: Mindustridiot/HazNoBrain - Unit suggestions, CY4NIDE - Railhammer unit FX work and suggestion"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -5616,6 +5640,18 @@
     "description": "This is nothing."
   },
   {
+    "repo": "megalp/factory",
+    "internalName": "factory",
+    "name": "FACTORY",
+    "author": "Mega_LP",
+    "lastUpdated": "2024-10-08T14:27:35Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Updated (06.10.2024)\n\n-Tiger MG shooting improved\n-Now able to create different Tank variants (Beta) 🠖 Not multiplayer testet\n\nSome major bug fixes\n\n\nLatest content addition: \n🠖Tactical nuker\n🠖P-1000-Ratte tank\n🠖Tiger tank\n🠖A new Planet\n🠖Darkshade and Galaxy material\n\n\nContent: \n🠖3 Maps\n🠖more materials\n🠖new units/enemys\n🠖8 new Mech pads\n🠖Material teleporters\n🠖New blocks and walls\n\nAnd we keep updating it! This mod is a good content addition to the game, but it's also a challange! So its time to get a Pro and master this mod. Of course we would like to hear your feedback!!\n\n Thanks to Eni_YT for helping with sprites, giving me ideas and updating this section."
+  },
+  {
     "repo": "frizermoon/revengeance-mod",
     "internalName": "revengeance",
     "name": "Revengeance",
@@ -6334,6 +6370,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "sasha-726/liquid-transportation--serpulo-",
+    "internalName": "liquid-transportation-serpulo",
+    "name": "Liquid-transportation-(Serpulo)",
+    "author": "Toxopid",
+    "lastUpdated": "2023-12-23T10:57:56Z",
+    "stars": 1,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod allows you to transport liquids to different sectors on Serpulo."
   },
   {
     "repo": "bakkablue/rgbee",
@@ -7128,18 +7176,6 @@
     "description": "pls turn on the mod to know more about it"
   },
   {
-    "repo": "megalp/factory",
-    "internalName": "factory",
-    "name": "FACTORY",
-    "author": "Mega_LP",
-    "lastUpdated": "2024-10-08T14:27:35Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Updated (06.10.2024)\n\n-Tiger MG shooting improved\n-Now able to create different Tank variants (Beta) 🠖 Not multiplayer testet\n\nSome major bug fixes\n\n\nLatest content addition: \n🠖Tactical nuker\n🠖P-1000-Ratte tank\n🠖Tiger tank\n🠖A new Planet\n🠖Darkshade and Galaxy material\n\n\nContent: \n🠖3 Maps\n🠖more materials\n🠖new units/enemys\n🠖8 new Mech pads\n🠖Material teleporters\n🠖New blocks and walls\n\nAnd we keep updating it! This mod is a good content addition to the game, but it's also a challange! So its time to get a Pro and master this mod. Of course we would like to hear your feedback!!\n\n Thanks to Eni_YT for helping with sprites, giving me ideas and updating this section."
-  },
-  {
     "repo": "chlorofluorocarbon/mindustry-mod-touhou",
     "internalName": "touhou",
     "name": "Touhou",
@@ -7164,18 +7200,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "chuvaak/futurehorizons",
-    "internalName": "futurehorizons",
-    "name": "Future Horizons",
-    "author": "Chuvaak",
-    "lastUpdated": "2024-10-16T07:40:11Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
-  },
-  {
     "repo": "dsfdsfwxp/finalcampaign",
     "internalName": "final-campaign",
     "name": "finalCampaign",
@@ -7198,6 +7222,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "We plan to add three new planets into the game, with two new tech trees.\n\nTronoe is a deserted planet with many ancient relics and long lost secrets.\nYour goal is to uncover these relics and piece together a machine that can take down the restless tyrant on Nevorix.\n\nOn the dark, irradiated wasteland of Iralius, you must research powerful turrets to overcome the mutated inhabitants.\n\nOn the ancient battlefield of Nevorix, you use the technologies that you have researched on Tronoe and Iralius to overcome an ancient enemy that has long gone undefeated. While winning the long - forgotten war, you will also discover new materials to create even more powerful weapons than before."
+  },
+  {
+    "repo": "chuvaak/futurehorizons",
+    "internalName": "futurehorizons",
+    "name": "Future Horizons",
+    "author": "Chuvaak",
+    "lastUpdated": "2024-10-17T18:42:38Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
     "repo": "kapzduke/vanilla-extension",
@@ -8086,6 +8122,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Scheme Size(勝手に略してSS)を日本語に訳しました。"
+  },
+  {
+    "repo": "camelstyleuser/unlockable-content",
+    "internalName": "unlockable-content",
+    "name": "UnlockableContent",
+    "author": "camelStyleUser",
+    "lastUpdated": "2024-01-03T12:53:28Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "dont you love some js"
   },
   {
     "repo": "xiaoxianben/mindustry-betterfactory-mod",
@@ -9274,5 +9322,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A extremely ambitious project on attempting to recreate terraria within the limit of mindustry(Major RAM usage warning)"
+  },
+  {
+    "repo": "huanxefh/reindustrialization",
+    "internalName": "reind",
+    "name": "Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2024-10-17T15:33:35Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I have seen too many mods with fictional contents bearing random names from reality, and somehow I have been working on this mod.\n\nReind is a mod about serious chemistry (or not), with JSON codes for most contents and JS codes for new mechanisms. Materials and production methods here are mostly based on what they are in reality, but simplified for gameplay.\nKnowledge of chemistry may be required. This mod is also inspired by GTNH, a hardcore Minecraft mod pack about industry (well that's kind of magic I have to say).\n\nCurrently done mechanisms (not all):\n- Pollution, caused by terrain and mostly, factories.\n- Heat damage, to blocks and units.\n- Conduit corrosion, caused by corrosive fluids.\n- Boiler explosion, which is similiar to that in GTNH.\n- Trees, where units can hide, even for a spoder.\n\nStill WIP and there are tons of ideas not implemented yet. Do not launch to any numbered sectors!\n\nContents: MaboroshiX\nSprites: MaboroshiX\nScripts: MaboroshiX\nIdeas: MaboroshiX\n\nrednificsdnaaidepikiwybderewop"
   }
 ]
