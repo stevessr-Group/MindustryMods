@@ -4,12 +4,12 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2025-04-29T10:34:45Z",
-    "stars": 442,
+    "lastUpdated": "2025-05-05T11:49:24Z",
+    "stars": 441,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
-    "description": "THE HORIZON HAS EXPANDED."
+    "description": "ALPHA RELEASE FOR V8!!!"
   },
   {
     "repo": "aureusstratus/exogenesis",
@@ -65,7 +65,7 @@
     "name": "Schema",
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 195,
+    "stars": 196,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -504,6 +504,18 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
+    "repo": "paulieg626/cheat",
+    "internalName": "cheat",
+    "name": "CheatMod",
+    "author": "paulieg626",
+    "lastUpdated": "2023-02-27T10:41:04Z",
+    "stars": 35,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
+  },
+  {
     "repo": "rogeh4/virtual-scheme-pack-",
     "internalName": "v-scheme-pack",
     "name": "Virtual Scheme Pack",
@@ -526,18 +538,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "paulieg626/cheat",
-    "internalName": "cheat",
-    "name": "CheatMod",
-    "author": "paulieg626",
-    "lastUpdated": "2023-02-27T10:41:04Z",
-    "stars": 34,
-    "minGameVersion": "142",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "zeutd/disintegration",
@@ -936,6 +936,18 @@
     "description": "No description provided."
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "author": "EBwilson",
+    "lastUpdated": "2025-05-02T14:55:56Z",
+    "stars": 19,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui"
+  },
+  {
     "repo": "sputnuc/asterion",
     "internalName": "as",
     "name": "Asterion",
@@ -994,18 +1006,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds hard new planet with unique content and new mechanics"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "author": "EBwilson",
-    "lastUpdated": "2025-05-02T14:55:56Z",
-    "stars": 18,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui"
   },
   {
     "repo": "uenhe/fire",
@@ -1492,7 +1492,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-05-05T05:02:41Z",
+    "lastUpdated": "2025-05-05T11:17:24Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1546,6 +1546,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
+  },
+  {
+    "repo": "xzxadixzx/scheme-size-lite",
+    "internalName": "scheme-size-lite",
+    "name": "Scheme Size Lite",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2024-02-03T16:57:51Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
   },
   {
     "repo": "meepoffaith/hallucinogen",
@@ -1654,18 +1666,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "xzxadixzx/scheme-size-lite",
-    "internalName": "scheme-size-lite",
-    "name": "Scheme Size Lite",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2024-02-03T16:57:51Z",
-    "stars": 11,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
   },
   {
     "repo": "blackdeluxecat/shadowshader",
@@ -2628,6 +2628,18 @@
     "description": "cook MOD is FUN"
   },
   {
+    "repo": "silinveredno/newhorizonmod-schematics",
+    "internalName": "nh-scheme-pack",
+    "name": "New Horizon schematics pack",
+    "author": "Silin Veredno",
+    "lastUpdated": "2025-03-15T10:00:31Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
+  },
+  {
     "repo": "eipusino/heavyindustrymod",
     "internalName": "heavy-industry",
     "name": "Heavy Industry",
@@ -2830,18 +2842,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds [orange]Blastanium[white], a compound of Blast Compound and Plastanium, as ammo for Serpulo and Erekir turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\nCompatible with the Etigei Exile mod's Rubiginosus campaign.\n\n[blue]Discord Server: https://discord.com/invite/TJKZgr6UDg"
-  },
-  {
-    "repo": "silinveredno/newhorizonmod-schematics",
-    "internalName": "nh-scheme-pack",
-    "name": "New Horizon schematics pack",
-    "author": "Silin Veredno",
-    "lastUpdated": "2025-03-15T10:00:31Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
     "repo": "sputnuc/expansion",
@@ -3346,6 +3346,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
+  },
+  {
+    "repo": "xpdustry/claj-v2",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-05-03T16:01:04Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
   },
   {
     "repo": "seuearth/banana",
@@ -4102,18 +4114,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "THE THIRD INSTALLMENT to the lore of the crux\n\nRusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential.\n\nDunes is a wasted planet near serpulo but far from the sun, take control and provide chaos to this dead planet.\n\nQuick heads up make sure to reinstall regular.\n\nGive a star if you enjoy Thanks!!!.\n\nCurrently I'm looking for someone that has the free will power to add music to rusted dunes."
-  },
-  {
-    "repo": "xpdustry/claj-v2",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-05-03T16:01:04Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -6276,18 +6276,6 @@
     "description": "(This mod is on BETA so many things can change in the future)\n\nThis is my first mod, so dont hope its going to have very high quality. This mod adds new units, turrets, factories, ores, a new planet and more (Extra: the textures are made in paint by the way,Develoment Help: melis and WALLE-E)"
   },
   {
-    "repo": "johnnywu2k/void",
-    "internalName": "void",
-    "name": "Void",
-    "author": "Johnny",
-    "lastUpdated": "2025-05-03T12:26:02Z",
-    "stars": 2,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "added some cool stuff"
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -6298,6 +6286,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Test mod made by incompetent idiots\n\nVERY EARLY ALPHA!!!!!\n\nSilly planet mod made by silly femboys"
+  },
+  {
+    "repo": "johnnywu2k/void",
+    "internalName": "void",
+    "name": "Void",
+    "author": "Johnny",
+    "lastUpdated": "2025-05-05T06:50:18Z",
+    "stars": 2,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "added some cool stuff"
   },
   {
     "repo": "teaeempire/gghv7",
